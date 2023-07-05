@@ -15,8 +15,8 @@
 - 🌱 I’m currently learning FastAPI,GraphQl
 - 👯 I’m looking to collaborate on Freelancer and remote work projects
 - 💬 Ask me about Django, Database
-- 📫 How to reach me: ghasemnia.official@gmail.com
-######################t.me/h_ceh
+- 📫 How to reach me: ghasemnia.official@gmail.com <br>
+t.me/h_ceh
 <!--
 **amirarsalan3602/amirarsalan3602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
