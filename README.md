@@ -10,19 +10,19 @@
        <img align="center" alt="Postman icon" height="30" width="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg" >  
 </div>
 
-### Hi there 👋
-
+### Hello guys, my name is Amir Arsalan 👋
+- 🔭 I’m currently working on ecommerce-api
+- 🌱 I’m currently learning FastAPI,GraphQl
+- 👯 I’m looking to collaborate on Freelancer and remote work projects
+- 💬 Ask me about Django, Database
+- 📫 How to reach me: ghasemnia.official@gmail.com
+######################t.me/h_ceh
 <!--
 **amirarsalan3602/amirarsalan3602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
